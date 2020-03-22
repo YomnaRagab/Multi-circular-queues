@@ -1,3 +1,4 @@
+/*Author:Yomna Ragab*/
 #ifndef Queue_config
 #define Queue_config
 /*The numbers of queus you need in the project , it must be less than (2^16)-1 */
